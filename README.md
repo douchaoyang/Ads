@@ -13,7 +13,7 @@ var ads=new Ads({
 	
 	"onClass":"on",控制按钮高亮样式类名
 	
-        "useHover":true,切换控制的方式 默认false
+    "useHover":true,切换控制的方式 默认false
         
 	"stay":3000广告停留时间 默认3e3
 	
@@ -24,5 +24,3 @@ var ads=new Ads({
 ads.Next()
 
 ads.Prev()
-
-演示地址：https://douchaoyang.github.io/sc/Ads/
